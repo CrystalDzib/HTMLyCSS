@@ -1,0 +1,14 @@
+.fondo2 {
+  background-color: rgb(255, 175, 255);
+  color: rgb(25, 15, 170);
+}
+#cabecera {
+  background: #44a0d6;
+  border: 1px solid #11db6c;
+  padding: 20px;
+  margin: 1rem;
+}
+
+#menu {
+  border: blueviolet 8px inset;
+}
